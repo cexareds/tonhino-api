@@ -1,2 +1,2 @@
-# tonhino-api
-Tonhino API 🗣️
+# tonhito-api
+Tonhito API 🗣️
